@@ -1,6 +1,6 @@
 # mistbornV2
 Feel free to fork! 
-2.0.2
+2.1.0
 Features: 
 1. Allows you to select era 1 or 2, and if Mistborn, full Feruchemy, Twinborns and other such high level powers, are allowed.
 
